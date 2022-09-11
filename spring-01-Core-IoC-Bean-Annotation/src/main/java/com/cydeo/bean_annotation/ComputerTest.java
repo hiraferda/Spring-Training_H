@@ -1,2 +1,4 @@
-package com.cydeo.bean_annotation;public class ComputerTest {
+package com.cydeo.bean_annotation;
+
+public class ComputerTest {
 }
