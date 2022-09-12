@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>spring-01-Core-IoC-Bean-Annotation</artifactId>
+    <artifactId>spring-02-Core-IoC-Stereotype-Annotation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -24,6 +24,4 @@
             <version>1.18.24</version>
         </dependency>
     </dependencies>
-
-
 </project>
