@@ -1,18 +1,21 @@
 package com.com.controller;
 
+import com.com.model.Mentor;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/mentor")
 public class MentorController {
 
-    @RequestMapping("/register")
-    public String register(){
-        return "student/register";
+    @GetMapping("/register")
+    public String register(Model model){
+        model.addAttribute("mentor", new Mentor());
+        return "mentor/register";
     }
-    @RequestMapping("/drop")
-    public String drop(){
-        return "student/register";
-    }
+
+
+
 }
