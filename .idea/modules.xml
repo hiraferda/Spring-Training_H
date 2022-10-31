@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-Training_H.iml" filepath="$PROJECT_DIR$/Spring-Training_H.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-13-Data-CinemaLab/spring-13-Data-CinemaLab.iml" filepath="$PROJECT_DIR$/spring-13-Data-CinemaLab/spring-13-Data-CinemaLab.iml" />
     </modules>
   </component>
 </project>
