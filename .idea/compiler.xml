@@ -32,6 +32,7 @@
         <module name="spring-04-Autowiring" />
         <module name="spring-07-SpringBoot-Demo" />
         <module name="spring-24-UnitTesting-MockMVC" />
+        <module name="Spring-24-Docker" />
       </profile>
     </annotationProcessing>
   </component>
@@ -40,6 +41,7 @@
       <module name="Spring-15-REST" options="-parameters" />
       <module name="Spring-16-REST-Jackson" options="-parameters" />
       <module name="Spring-19-REST-OpenAPI3" options="-parameters" />
+      <module name="Spring-24-Docker" options="-parameters" />
       <module name="spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="spring-08-MVC-Controller" options="-parameters" />
       <module name="spring-09-MVC-Model" options="-parameters" />
